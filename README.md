@@ -1,4 +1,4 @@
-# Testing doc... 
+# Testing
 
 
 ## License
